@@ -1,7 +1,7 @@
-This project is builded by create-react-app, please use
-"yarn start" or "npm run start" to run the project.
+This project is builded by create-react-app, using material-ui.
+Please use "yarn start" or "npm run start" to run the project.
 
-#function:
+##function:
 1. Click 'upload image' button
 2. Choose a image, and the image will be shown in the button clicked
 3. 'Add more ...' button occurs
